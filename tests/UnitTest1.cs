@@ -6,7 +6,7 @@ namespace tests
     public class Tests
     {
         [Test]
-        public void RevPrevState()
+        public void RevivePreviousState()
         {
             TextEditor editor = new TextEditor();
             editor.InsertText("Hello,");
@@ -25,7 +25,7 @@ namespace tests
         }
 
         [Test]
-        public void Del_Get_ReturnDelPart()
+        public void DeleteTextGetReturnedDeleletedPart()
         {
             TextEditor editor = new TextEditor();
             editor.InsertText("Hello World!");
