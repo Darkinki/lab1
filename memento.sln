@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memento", "memento\memento.csproj", "{96C23214-2FA9-49AD-8790-C561168BB76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "tests\tests.csproj", "{60570C3D-CC34-4D07-BBC6-FF9A24B4C9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96C23214-2FA9-49AD-8790-C561168BB76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C23214-2FA9-49AD-8790-C561168BB76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C23214-2FA9-49AD-8790-C561168BB76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C23214-2FA9-49AD-8790-C561168BB76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60570C3D-CC34-4D07-BBC6-FF9A24B4C9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60570C3D-CC34-4D07-BBC6-FF9A24B4C9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60570C3D-CC34-4D07-BBC6-FF9A24B4C9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60570C3D-CC34-4D07-BBC6-FF9A24B4C9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
